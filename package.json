@@ -1,0 +1,14 @@
+{
+  "name": "mse-fundamentals-challenge",
+  "version": "1.0.0",
+  "description": "End of module challenge for MSE Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "dearshrewdwit@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
