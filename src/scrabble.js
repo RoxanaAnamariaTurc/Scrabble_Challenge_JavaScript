@@ -16,7 +16,7 @@ class Scrabble
     this.scores = new Map();
     // A, 1
     // E, 1
-    this.readFile().split('\r\n').forEach(element =>
+    this.readFile().split('\n').forEach(element =>
     {
       this.scores.set(element[0], parseInt(element.substring(3)));
     })
