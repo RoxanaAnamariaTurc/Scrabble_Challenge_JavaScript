@@ -1,3 +1,5 @@
+## Scrabble Challenge Javascript
+
 ### Project Objectives
 
 This project's aim is to test the understanding of javascript fundamentals by creating a scrabble game.
